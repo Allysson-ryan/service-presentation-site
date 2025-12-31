@@ -66,7 +66,7 @@ const Footer = () => {
                 className="max-sm:w-[27px] sm:w-[25px] lg:w-[30px] max-sm:h-[27px] sm:h-[25px] lg:h-[30px]"
               />
               <span className="max-sm:text-[16px] sm:text-[16px] md:text-[16px] lg:text-lg">
-                allyssonr@gmail.com
+                allyssonr002@gmail.com
               </span>
             </div>
           </div>
